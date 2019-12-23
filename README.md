@@ -1,0 +1,1 @@
+# CSS-Variables This is a mini-project to practice using css variables and manipulating their values interactively with js to change values on the client side. Using element selectors and their data attributes to change style values.
